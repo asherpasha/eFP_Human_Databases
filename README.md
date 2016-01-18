@@ -20,6 +20,6 @@ e91658ba77ff8110672b5086124b0f09 human_developmental.sql
 
 #### Other Options
 If you have trouble downloading the databases from github, you can download the databases directly from the BAR: <br />
-https://github.com/asherpasha/eFP_Human_Databases
+http://bar.utoronto.ca/efp_human_databases/
 
 Thank you.
